@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📝 I regulary write articles on [olig48.github.io](olig48.github.io)
+- 📝 I regulary write articles on [olig48.github.io](https://olig48.github.io)
 
 - 📫 How to reach me **1250312837@qq.com**
 
