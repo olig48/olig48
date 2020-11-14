@@ -3,12 +3,14 @@ name: WakaTime Readme
 on:
   push:
     branches:
-      - master
+      - main
+  workflow_dispatch:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
+    name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
       - uses: olig48/waka-readme@master
