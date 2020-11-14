@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olig48&label=Profile%20views&color=0e75b6&style=flat" alt="olig48" /> </p>
 
 - 🌱 I’m currently learning **machine learning**
+### 📫 Reach me 
 
-- 📝 I regulary write articles on [olig48.github.io](https://olig48.github.io)
-
-- 📫 How to reach me **1250312837@qq.com**
+- ☁️ <a href = "https://blog.ltazc.top/#/blog/home">Blog</a>
+- 📧 <a href="1250312837@qq.com">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
