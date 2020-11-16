@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **machine learning**
 ### 📫 Reach me 
 
-- ☁️ <a href = "https://blog.ltazc.top/#/blog/home">Blog</a>
+- ☁️ <a href = "https://olig48.github.io">Blog</a>
 - 📧 <a href="1250312837@qq.com">Email</a>
 
 <h3 align="left">Connect with me:</h3>
