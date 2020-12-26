@@ -21,6 +21,6 @@
   
 <!--START_SECTION:waka-->
 ```text
-Bash   4 mins          █████████████████████████   100.00 % 
+Bash    4 mins          ██████████████████████▓░░   90.60 % 
 ```
 <!--END_SECTION:waka-->
