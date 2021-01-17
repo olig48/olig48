@@ -20,7 +20,7 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=olig48&show_icons=true" alt="olig48" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=olig48&show_icons=true" alt="olig48" /></p>
   
 <!--START_SECTION:waka-->
 ```text
