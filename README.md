@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olig48&label=Profile%20views&color=0e75b6&style=flat" alt="olig48" /> </p>
 
 - 🌱 I’m currently learning **machine learning**
+
 ### 📫 Reach me 
 - ☁️ <a href = "https://olig48.github.io">Blog</a>
 <h3 align="left">Connect with me:</h3>
@@ -10,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/liutm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="liutm" height="30" width="40" /></a>
 </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=olig48&show_icons=true" alt="olig48" /></p>
 <h3 align="left">My Rss:</h3>
 <p align="left">
 <a href="https://olig48.github.io/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://olig48.github.io/atom.xml" height="30" width="40" /></a>
@@ -20,7 +22,6 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=olig48&show_icons=true" alt="olig48" /></p>
   
 <!--START_SECTION:waka-->
 ```text
