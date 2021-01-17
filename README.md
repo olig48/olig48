@@ -12,7 +12,7 @@
 </p>
 <h3 align="left">My Rss:</h3>
 <p align="left">
-<a href="/https://olig48.github.io/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://olig48.github.io/atom.xml" height="30" width="40" /></a>
+<a href="https://olig48.github.io/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://olig48.github.io/atom.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
