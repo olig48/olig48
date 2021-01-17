@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/liutm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="liutm" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=olig48&show_icons=true" alt="olig48" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=olig48&show_icons=true" alt="olig48" /></p>
 <h3 align="left">My Rss:</h3>
 <p align="left">
 <a href="https://olig48.github.io/atom.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://olig48.github.io/atom.xml" height="30" width="40" /></a>
